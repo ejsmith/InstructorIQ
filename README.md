@@ -1,2 +1,2 @@
 # InstructorIQ
-Training calendar manangement
+Training calendar management
